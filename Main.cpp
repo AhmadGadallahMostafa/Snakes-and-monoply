@@ -2,7 +2,7 @@
 #include "ApplicationManager.h"
 
 // This Main Function Must NOT be Changed
-
+//hi
 int main()
 {
 	ActionType ActType;
