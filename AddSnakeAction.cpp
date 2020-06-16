@@ -4,6 +4,8 @@
 #include "Output.h"
 #include "Snake.h"
 
+//this class adds an action 
+
 AddSnakeAction::AddSnakeAction(ApplicationManager* pApp) : Action(pApp)
 {
 	// Initializes the pManager pointer of Action with the passed pointer

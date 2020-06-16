@@ -30,5 +30,6 @@ public:
 	virtual void Save(ofstream& OutFile, int num) = 0;
 	virtual void Load(ifstream& InFile, Grid* pGrid) = 0;
 	virtual ~Card(); // A Virtual Destructor
+	//gamd 
 };
 
